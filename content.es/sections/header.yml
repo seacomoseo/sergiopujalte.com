@@ -1,0 +1,18 @@
+anchor: Sergio Pujalte - Terapeuta Holístico
+title: Sergio Pujalte
+subtitle: Terapeuta Holístico
+color: main-dark
+image: logo.svg
+bg: fondo.jpg
+gradient: dark
+description: |
+  Especializado en Osteopatía, Acupuntura, Hipnosis y otras Terapias Holísticas que equilibran el cuerpo, la mente y el espíritu
+
+  [btn icon-plus Más](#principal)
+more:
+  full_screen: true
+  image_min: 18
+  image_max: 20
+  opacity: 30
+  parallax: true
+  gradient_type: linear-r

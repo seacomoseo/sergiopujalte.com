@@ -1,0 +1,20 @@
+title: Servicios
+subtitle: ¿Qué procesos seguimos?
+icon: rocket-launch
+rows:
+- type: columns
+  design:
+    num: 3
+    num_xs: false
+    uppercase: true
+    underline: true
+    color: white
+    link: '#ejemplo'
+    icon_type: bottom
+  items:
+  - title: OLA K ASE
+    subtitle: Agámoslo!
+    image: fondo.jpg
+    icon: dog
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
